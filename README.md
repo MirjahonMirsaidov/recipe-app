@@ -1,2 +1,2 @@
-# habit-tracker
-Simple api for habit tracking app
+# recipe-app
+Simple api for recipe app
